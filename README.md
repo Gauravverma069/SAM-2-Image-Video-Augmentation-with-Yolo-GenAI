@@ -2,6 +2,11 @@
 
 This project leverages the **Meta SAM 2 model** for advanced masking and mask propagation in both images and videos. It integrates two **YOLO models** for object detection, an **Image Annotator** for generating YOLO-compatible annotations, and various augmentation techniques, including generative AI capabilities. Additionally, users can manually enter frame numbers and object coordinates if they prefer not to use the YOLO models.
 
+
+https://github.com/user-attachments/assets/272b337c-6aeb-4cb7-b373-f942e5d7981a
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -107,4 +112,20 @@ The Image Annotator application allows for manual annotation of images to genera
 ## UseCases
 
 - Visit Use cases page on streamlit application.
+
+
+https://github.com/user-attachments/assets/c30262b6-bfb1-4752-a26e-95f91dcaf612
+
+
+
+https://github.com/user-attachments/assets/0c383782-24df-4471-b844-fbd682767b64
+
+
+
+https://github.com/user-attachments/assets/bf026f1e-0580-442c-a4db-2abe78a3ba0d
+
+
+
+
+https://github.com/user-attachments/assets/71aacb7b-5468-40de-8f34-ebc65448b26d
 
